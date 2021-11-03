@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main ()
+{
+  std :: cin >> y;
+  std :: cout << "Emacs Test" << std :: endl;
+  std :: cout << y << std :: endl;
+}
+
+
