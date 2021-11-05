@@ -71,8 +71,8 @@ int main()
     int arr_test [6] = {1, 2, 3, 4, 5, 6};
     Array <int> arr (arr_test, 6);
     arr.print ();
-  
+
+    std :: cout << "deez" << std :: endl;
+    
     return 0; 
 }
-
-
